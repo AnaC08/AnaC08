@@ -1,4 +1,4 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 👋
 
 <!--
 **AnaC08/AnaC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
